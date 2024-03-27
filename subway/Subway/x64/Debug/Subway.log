@@ -1,0 +1,3 @@
+﻿  源1.cpp
+D:\vs\Subway\Subway\源1.cpp(86): warning C4715: “price”: 不是所有的控件路径都返回值
+  Subway.vcxproj -> D:\vs\Subway\x64\Debug\Subway.exe
