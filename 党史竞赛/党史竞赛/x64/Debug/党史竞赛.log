@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\vs\党史竞赛\党史竞赛\源.cpp(475,9): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\vs\党史竞赛\党史竞赛\源.cpp(510,11): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\vs\党史竞赛\党史竞赛\源.cpp(646,9): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\vs\党史竞赛\党史竞赛\源.cpp(652,9): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\vs\党史竞赛\党史竞赛\源.cpp(682,20): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+  党史竞赛.vcxproj -> D:\vs\党史竞赛\x64\Debug\党史竞赛.exe
